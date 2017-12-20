@@ -13,7 +13,7 @@ but for this you need tow python modules
 2.playsound -it use to play mp3 in cmd that mean we dont need to open our midea player again and again...
     if you don't have this open cmd and write command
     
-    -pip install playsound
+    pip install playsound
     
     for this whole thing you need your internet connection is on
     because gtts work when you online...
