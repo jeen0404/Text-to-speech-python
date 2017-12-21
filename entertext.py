@@ -34,5 +34,5 @@ def prosess(name):
 a=0
 while 1 :#we use while loop because we can't open file every time
     a=a+1
-    a=str(a)
-    prosess(a)#were the value of a passed to prosess function
+    b=str(a)
+    prosess(b)#were the value of a passed to prosess function
