@@ -17,7 +17,7 @@ def entertext():
 #this is our main function it convert string into mp3 file
 def prosess(name):
     a=name   #it,s value of we passed from while loop
-    path=str(a+'.mp3')#here we add tow string a and .mp3 extention
+    path=str(a+'.mp3')#here we add to string and .mp3 extention
     print(path)
     text=entertext()#here we call entertext function and take input from user
     t=str("")#here we define empty string 
