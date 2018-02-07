@@ -23,6 +23,6 @@ for this whole thing you need your internet connection is on
     
 also you can add wellcome voice-for this you need you remove playsound(wellcome) comment and write your mp3 address in place of wellcome....
     
- and also sorry for my english mistake....
- if you get any idea to my script just do..
+
+  j
     
