@@ -4,7 +4,7 @@ Python script to convert our text into speech with gtts and playsound modules
 This is puthon script convert our text into mp3 and play in cmd.
 you just neet to download and run entertext.py program
 
-but for this you need tow python modules 
+but for this you need two python modules 
 1.gtts  -google text to speech module
           if you dont have this module just open you cmd and write command-  
     
@@ -22,7 +22,4 @@ for this whole thing you need your internet connection is on
     if your internet connection is not on then it will give you error..
     
 also you can add wellcome voice-for this you need you remove playsound(wellcome) comment and write your mp3 address in place of wellcome....
-    
-
-  j
-    
+   
